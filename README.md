@@ -1,5 +1,4 @@
 # activebox
 Lending page activebox (html and css)
 
-
-[](https://web.telegram.org/ffadc867-aaae-4d4a-918d-8f908b107312)
+[photo](https://pp.userapi.com/c858224/v858224325/276a/OShO0B80sN0.jpg)
