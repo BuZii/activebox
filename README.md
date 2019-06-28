@@ -1,4 +1,5 @@
 # activebox
 Lending page activebox (html and css)
 
-blob:https://web.telegram.org/ffadc867-aaae-4d4a-918d-8f908b107312
+
+[](https://web.telegram.org/ffadc867-aaae-4d4a-918d-8f908b107312)
